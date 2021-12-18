@@ -3,12 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Run Local
 
 ```bash
-yarn
+yarn # to install dependencies
 
-yarn dev
+yarn dev # to run local server
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-```
 
 ## Getting Started
 
